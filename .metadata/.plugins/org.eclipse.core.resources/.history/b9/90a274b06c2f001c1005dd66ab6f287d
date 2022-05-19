@@ -1,0 +1,9 @@
+package sentenciaCondicionalesSinBucles;
+
+public class IV {
+
+	public IV() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

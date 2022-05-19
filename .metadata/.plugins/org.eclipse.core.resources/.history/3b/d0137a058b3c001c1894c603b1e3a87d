@@ -1,0 +1,14 @@
+package ejercciciosEtructurasBasicas;
+
+import java.util.Scanner;
+
+public class XVEstructurasBasicas {
+
+	public XVEstructurasBasicas() {
+		//Dado un número entero positivo, hallar los números primos comprendidos entre 2 y
+		//dicho número.(Funciones)
+		Scanner leer =new Scanner(System.in);
+		
+	}
+
+}
