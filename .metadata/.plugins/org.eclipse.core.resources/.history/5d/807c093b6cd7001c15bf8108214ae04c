@@ -24,7 +24,6 @@ public class EjercicioTablas {
 				err++;
 		}
 		System.out.println("Has tenido..."+dato+" errores");
-		System.out.println("prueba github");
 	}
 
 }
